@@ -7,7 +7,7 @@ com_anm22_wb_libs is a libraries collection for ANM22 WebBase CMS plugins.
 *	animate.css v3.5.1 - [daneden.me/animate](http://daneden.me/animate)
 *	perfect-scrollbar v0.6.10 - [GitHub mdbootstrap/perfect-scrollbar](https://github.com/mdbootstrap/perfect-scrollbar)
 *	wow.js - [wowjs.uk](https://wowjs.uk/)
-*       com_anm22_wb_gallery lib v3.1 - [GitHub ANM22/com_anm22_wb_gallery](https://github.com/ANM22/com_anm22_wb_gallery)
+*	com_anm22_wb_gallery lib v3.1 - [GitHub ANM22/com_anm22_wb_gallery](https://github.com/ANM22/com_anm22_wb_gallery)
 
 ## Install
 *	Copy plugin folder inside WebBase plugins path. Check the WebBase developers guide to find out more.
