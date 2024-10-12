@@ -1,5 +1,5 @@
 # com_anm22_wb_libs - WebBase plugin
-![version](https://img.shields.io/badge/version-1.2-blue)
+![version](https://img.shields.io/badge/version-1.3-blue)
 
 com_anm22_wb_libs is a libraries collection for ANM22 WebBase CMS plugins.
 
